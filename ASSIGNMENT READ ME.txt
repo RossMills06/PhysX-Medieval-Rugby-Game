@@ -1,0 +1,4 @@
+F5 shows performance analysis
+
+valid test case: spawning lots of/100 balls
+invalid test case: spawning 1000 balls
